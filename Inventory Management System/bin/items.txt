@@ -1,0 +1,10 @@
+I001,Milk,20,3.5,Dairy,Perishable,2026-05-01
+I002,Bread,15,2.8,Bakery,Perishable,2026-04-25
+I003,Rice,50,25.0,Grocery,NonPerishable,12
+I004,Sugar,40,4.5,Grocery,NonPerishable,24
+I005,Yogurt,18,5.2,Dairy,Perishable,2026-04-30
+I006,Soap,30,2.0,Cleaning,NonPerishable,18
+I007,Juice,25,4.0,Beverage,Perishable,2026-05-10
+I008,Notebook,60,3.0,Stationery,NonPerishable,6
+I009,Cheese,10,6.5,Dairy,Perishable,2026-05-03
+I010,Shampoo,22,7.8,PersonalCare,NonPerishable,24
